@@ -1,0 +1,32 @@
+# Dependencias
+node_modules/
+
+# Directorio de construcción
+dist/
+
+# Archivos de configuración de TypeScript
+tsconfig.json
+tsconfig.*.json
+
+# Archivos de configuración de Node.js
+package-lock.json
+npm-debug.log
+
+# Archivos generados por IDEs
+.vscode/
+.idea/
+
+# Archivos de respaldo y temporales
+*.log
+*.bak
+*.tmp
+
+# Archivos de entorno
+.env
+
+# Archivos de prueba
+__tests__/
+
+# Archivos específicos de desarrollo
+*.js.map
+*.d.ts
